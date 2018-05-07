@@ -1,0 +1,14 @@
+h1{
+	width: 650px;
+	color:#ff6600;
+	letter-spacing: -1px;
+	text-transform: capitalize;
+	text-shadow: 1px 1px 1px black;
+	font-family: 'Coda Caption', sans-serif;margin: auto;
+}
+p{
+	width: 650px;
+	font-size: 18px;
+	font-family: 'Noto Serif', serif;
+margin: auto;}
+

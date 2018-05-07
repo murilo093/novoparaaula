@@ -1,0 +1,28 @@
+label,input[type="submit"], textarea
+	{display: block;
+}
+textarea{width: 300px;
+	height: 80px;}
+	input[type=submit]{background: #333333;
+		color: #ffffff;
+		cursor: pointer;
+		padding: 10px;
+		border:0;}		
+		input[type=submit]:hover{
+			background: #ff6600
+		}
+body 
+{font-family: helvetica;text-decoration: none;}
+	a:link,a:visited{color: #ff6600;
+		text-decoration:none;}
+		a:hover{text-decoration: underline;}
+		#imglogo{width: 960px;
+			margin:auto;
+			padding: 10px
+		}
+		#wrap{width: 960px;
+			margin:auto;
+		padding-bottom: 50px;
+	}
+	label{padding-top: 50px}
+	
